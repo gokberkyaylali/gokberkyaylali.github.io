@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student</a>, Yale University
+subtitle: PhD Student, Yale University
 
 profile:
   align: right
-  image: IMG 2482.png
+  image: IMG_2482.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Yale University</p>

@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-# {% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 
@@ -21,10 +21,10 @@ nav_order: 2
 
 <h1>Journals<h1>
 
-{% bibliography/papers2.bib %}
+{% bibliography/journals.bib %}
 
 <h1>Conferences<h1>
 
-{% bibliography/papers.bib %}
+{% bibliography/conferences.bib %}
 
 </div>

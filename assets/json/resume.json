@@ -19,7 +19,7 @@
       }
     ]
   },
-  "research": [
+  "work": [
     {
       "name": "RADIO Lab, Princeton University",
       "position": "Graduate Research Assistant",
@@ -43,15 +43,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Yale, New Haven, CT",
+      "location": "New Haven, CT",
+      "url": "https://www.yale.edu/",
+      "area": "Electrical and Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2022-08-01",
+      "endDate": "Present"
     }
   ],
   "awards": [

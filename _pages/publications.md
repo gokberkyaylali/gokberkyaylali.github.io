@@ -25,6 +25,6 @@ nav_order: 2
 
 <h1>Conferences<h1>
 
-{% yaylali_dro_2024 yaylali_dual_2024 yaylali_robust_2023 %}
+{% cite yaylali_dro_2024 yaylali_dual_2024 yaylali_robust_2023 %}
 
 </div>

@@ -11,17 +11,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Electrical and Computer Engineering
       institution: Yale University, New Haven, CT
       year: 2022
       month: 8
       description:
-        - <b>Advisor:<b> 
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - <b>Advisor:</b> [Prof. Dionysis Kalogerias](https://www.dkalogerias.org/)
+        - <b>Concentration:</b> Stochastic Optimization & Decision-Making
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900

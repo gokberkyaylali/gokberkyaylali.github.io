@@ -17,7 +17,7 @@ nav_order: 2
 
 <h1>Preprints<h1>
 
-{% bibliography/papers.bib %}
+{% bibliography/preprints.bib %}
 
 <h1>Journals<h1>
 

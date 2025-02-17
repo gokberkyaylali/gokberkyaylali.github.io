@@ -17,14 +17,14 @@ nav_order: 2
 
 <h1>Preprints<h1>
 
-{% bibliography --query "@misc" %}
+{% bibliography --group_by none --query @*[type=preprint]* %}
 
 <h1>Journals<h1>
 
-{% bibliography --query "@article" %}
+{% bibliography --group_by none --query @*[type=journal]* %}
 
 <h1>Conferences<h1>
 
-{% bibliography --query "@inproceedings" %}
+{% bibliography --group_by none --query @*[type=conference]* %}
 
 </div>

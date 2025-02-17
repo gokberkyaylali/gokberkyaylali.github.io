@@ -11,20 +11,20 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-<!-- {% include bib_search.liquid %} -->
+{% include bib_search.liquid %}
 
 <div class="publications">
 
 <h1>Preprints<h1>
 
-{% cite yaylali_dro_2025 yaylali_quantile_2025 %}
+{% bibliography --query "@misc" %}
 
 <h1>Journals<h1>
 
-{% cite yaylali_channel_2023 kara_mol_2022 %}
+{% bibliography --query "@article" %}
 
 <h1>Conferences<h1>
 
-{% cite yaylali_dro_2024 yaylali_dual_2024 yaylali_robust_2023 %}
+{% bibliography --query "@inproceedings" %}
 
 </div>

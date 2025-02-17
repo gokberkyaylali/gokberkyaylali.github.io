@@ -1,36 +1,32 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gokberk Yaylali",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "gokberk [dot] yaylali [at] yale.edu",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "17 Hillhouse Ave.",
+      "postalCode": "CT 06520",
+      "city": "New Haven",
       "countryCode": "US",
-      "region": "California"
+      "region": "Connecticut"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "gokberkyaylali",
+        "url": "https://www.linkedin.com/in/gokberkyaylali/"
       }
     ]
   },
-  "work": [
+  "research experience": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "RADIO Lab, Princeton University",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.dkalogerias.org/research-group/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "highlights": ["Risk-aware stochastic optimization for resource allocation in wireless networks", "Distributionally robust optimization via coherent risk measures"]
     }
   ],
   "volunteer": [

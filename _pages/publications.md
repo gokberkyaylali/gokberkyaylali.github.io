@@ -17,14 +17,14 @@ nav_order: 2
 
 <h1>Preprints<h1>
 
-{% bibliography/preprints.bib %}
+{% bibliography/papers.bib %}
 
 <h1>Journals<h1>
 
-{% bibliography/journals.bib %}
+{% bibliography/papers1.bib %}
 
 <h1>Conferences<h1>
 
-{% bibliography/conferences.bib %}
+{% bibliography/papers2.bib %}
 
 </div>

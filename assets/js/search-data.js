@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-academic-genealogy",
-          title: "Academic Genealogy",
-          description: "Academic Genealogy",
+        },{id: "nav-genealogy",
+          title: "genealogy",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/genealogy/";
+            window.location.href = "/assets/pdf/Academic_Genealogy.pdf";
           },
         },{id: "news-graduated-from-bogazici-university-electrical-electronics-engineering-ms-program",
           title: 'Graduated from Bogazici University Electrical Electronics Engineering MS program',

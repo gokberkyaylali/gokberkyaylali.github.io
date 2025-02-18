@@ -126,7 +126,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "pandas",
-        "numpy"
+        "numpy",
         "Tensorflow",
         "PyTorch",
         "scikit-learn"
@@ -156,15 +156,15 @@
         "Science & Fiction"
       ]
     },
-
-    "name": "Extracurriculars",
-    "icon": "fa-solid fa-tag",
-    "keywords": [
-      "Bogazici University Underwater Sports Club (BUSAS)",
-      "BUEC IEEE Bogazici"
-      "Bogazici EE Student Council",
-    ]
-  }
+    {
+      "name": "Extracurriculars",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Bogazici University Underwater Sports Club (BUSAS)",
+        "BUEC IEEE Bogazici",
+        "Bogazici EE Student Council"
+      ]
+    }
   ],
   "references": [
     {

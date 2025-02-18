@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started PhD at Yale
+Started PhD in Electrical and Computer Engineering at Yale

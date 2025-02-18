@@ -101,7 +101,7 @@
   ],
   "work": [
     {
-      "name": "Pointr: The Deep Location Company ",
+      "name": "Pointr: The Deep Location Company",
       "position": "Machine Learning Intern",
       "url": "https://www.pointr.tech/",
       "startDate": "2019-06-01",
@@ -200,6 +200,22 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    }
+  ],
+  "teaching": [
+    {
+      "name": "Teaching Fellow",
+      "position": "ENAS 435: Decisions and Computations Across Networks",
+      "url": "https://seas.yale.edu/departments/electrical-engineering",
+      "startDate": "Spring-2024",
+      "highlights": ["Instructor: Prof. A. Stephen Morse, Yale University"]
+    },
+    {
+      "name": "Teaching Fellow",
+      "position": "ENAS 432: Linear Systems",
+      "url": "https://seas.yale.edu/departments/electrical-engineering",
+      "startDate": "Fall-2024",
+      "highlights": ["Instructor: Prof. A. Stephen Morse, Yale University"]
     }
   ]
 }

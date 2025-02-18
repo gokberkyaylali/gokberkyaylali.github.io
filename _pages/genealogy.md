@@ -1,9 +1,7 @@
 ---
 layout: page
-permalink: /genealogy/
-title: "Academic Genealogy"
+permalink: /assets/pdf/Academic_Genealogy.pdf
+title: "genealogy"
 nav: true
 nav_order: 4
-description: "Academic Genealogy"
-redirect: /assets/pdf/Academic_Genealogy.pdf
 ---

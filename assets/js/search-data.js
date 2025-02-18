@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "Brief Biography &amp; Resume",
+  },{id: "nav-resume",
+          title: "resume",
+          description: "You may also refer to the pdf version here",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Courses with teaching responsibilities",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";

@@ -19,34 +19,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Pointr: The Deep Location Company ",
-      "position": "Machine Learning Intern",
-      "url": "https://www.pointr.tech/",
-      "startDate": "2019-06-01",
-      "endDate": "2019-08-01",
-      "highlights": ["Development of a robust imputation service for positional data of indoor devices via deep learning techniques", "Utilization of positional data for business insights using other Deep Analytics services as per client specifications"]
-    }
-  ],
-  "research": [
-    {
-      "name": "RADIO Lab, Yale University",
-      "position": "Graduate Research Assistant",
-      "url": "https://www.dkalogerias.org/research-group/",
-      "startDate": "2022-08-01",
-      "endDate": "Present",
-      "highlights": ["Risk-aware stochastic optimization for resource allocation in wireless networks", "Distributionally robust optimization via coherent risk measures"]
-    },
-    {
-      "name": "Nanonetworking Research Group, Bogazici University",
-      "position": "Graduate Research Assistant",
-      "url": "http://nrg.boun.edu.tr/index.html",
-      "startDate": "2020-01-01",
-      "endDate": "2022-07-01",
-      "highlights": ["Channel impulse response modeling and capacity analysis of molecular MIMO topologies", "Implementation of molecular index modulation-based communication schemes", "Molecular communication modulations based on deep learning methods"]
-    }
-  ],
   "education": [
     {
       "institution": "Yale University, New Haven, CT",
@@ -83,6 +55,58 @@
       "studyType": "BS",
       "startDate": "2014-09-02",
       "endDate": "2020-01-02"
+    }
+  ],
+  "research": [
+    {
+      "name": "RADIO Lab, Yale University",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.dkalogerias.org/research-group/",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "highlights": ["Risk-aware stochastic optimization for resource allocation in wireless networks", "Distributionally robust optimization via coherent risk measures"]
+    },
+    {
+      "name": "Nanonetworking Research Group, Bogazici University",
+      "position": "Graduate Research Assistant",
+      "url": "http://nrg.boun.edu.tr/index.html",
+      "startDate": "2020-01-01",
+      "endDate": "2022-07-01",
+      "highlights": ["Channel impulse response modeling and capacity analysis of molecular MIMO topologies", "Implementation of molecular index modulation-based communication schemes", "Molecular communication modulations based on deep learning methods"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Risk-Aware Resource Allocation for Robust Wireless Autonomy",
+      "summary": "Risk-Aware stochastic optimization for resource allocation in power-constrained multi-terminal point-to-point communication networks with fading. The generalizing solution extends the classical waterfilling algorithm. Convergence analysis of the problem for nonconvex channel rate functions is included.",
+      "highlights": ["Distributionally Robust Optimization", "Risk-Averse Decision-Making"],
+      "startDate": "2023-08-01",
+      "endDate": "Present"
+    },
+    {
+      "name": "Design of Index Modulation-Based Molecular Communication Systems",
+      "summary": "Comprehensive analysis on molecular multiple-receiver systems, with respect to communication performance and channel characteristics. Additionally, an elaborate channel modeling is provided for molecular multiple-receiver systems with fully-absorbing spherical receivers.",
+      "highlights": ["Molecular Communication", "Index Modulation"],
+      "startDate": "2020-01-01",
+      "endDate": "2022-06-01"
+    },
+    {
+      "name": "Hand Gesture Recognition via AI",
+      "summary": "Hand gesture recognition from live camera stream, via several machine learning methods such as logistic regression, neural nets, decision tree and random forest. Recognised hand gestures are fed into unsupervised rock, paper, scissors game.",
+      "highlights": ["Machine Learning", "Artificial Intelligence"],
+      "startDate": "2018-04-01",
+      "endDate": "2018-06-01",
+      "url": "https://github.com/gokberkyaylali/Finger-number-detection"
+    }
+  ],
+  "work": [
+    {
+      "name": "Pointr: The Deep Location Company ",
+      "position": "Machine Learning Intern",
+      "url": "https://www.pointr.tech/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-08-01",
+      "highlights": ["Development of a robust imputation service for positional data of indoor devices via deep learning techniques", "Utilization of positional data for business insights using other Deep Analytics services as per client specifications"]
     }
   ],
   "honors": [
@@ -176,30 +200,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Risk-Aware Resource Allocation for Robust Wireless Autonomy",
-      "summary": "Risk-Aware stochastic optimization for resource allocation in power-constrained multi-terminal point-to-point communication networks with fading. The generalizing solution extends the classical waterfilling algorithm. Convergence analysis of the problem for nonconvex channel rate functions is included.",
-      "highlights": ["Distributionally Robust Optimization", "Risk-Averse Decision-Making"],
-      "startDate": "2023-08-01",
-      "endDate": "Present"
-    },
-    {
-      "name": "Design of Index Modulation-Based Molecular Communication Systems",
-      "summary": "Comprehensive analysis on molecular multiple-receiver systems, with respect to communication performance and channel characteristics. Additionally, an elaborate channel modeling is provided for molecular multiple-receiver systems with fully-absorbing spherical receivers.",
-      "highlights": ["Molecular Communication", "Index Modulation"],
-      "startDate": "2020-01-01",
-      "endDate": "2022-06-01"
-    },
-    {
-      "name": "Hand Gesture Recognition via AI",
-      "summary": "Hand gesture recognition from live camera stream, via several machine learning methods such as logistic regression, neural nets, decision tree and random forest. Recognised hand gestures are fed into unsupervised rock, paper, scissors game.",
-      "highlights": ["Machine Learning", "Artificial Intelligence"],
-      "startDate": "2018-04-01",
-      "endDate": "2018-06-01",
-      "url": "https://github.com/gokberkyaylali/Finger-number-detection"
     }
   ]
 }

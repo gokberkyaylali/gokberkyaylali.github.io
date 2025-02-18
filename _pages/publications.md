@@ -19,12 +19,12 @@ nav_order: 2
 
 {% bibliography --group_by none --query @*[type=preprint]* %}
 
-<h1>Journals</h1>
-
-{% bibliography --group_by none --query @*[type=journal]* %}
-
 <h1>Conferences</h1>
 
 {% bibliography --group_by none --query @*[type=conference]* %}
+
+<h1>Journals</h1>
+
+{% bibliography --group_by none --query @*[type=journal]* %}
 
 </div>

@@ -16,14 +16,8 @@
       year: 2022
       month: 8
       description:
-        - <b>Advisor:</b> [Prof. Dionysis Kalogerias](https://www.dkalogerias.org/)
+        - <b>Advisor:</b> Prof. Dionysis Kalogerias
         - <b>Concentration:</b> Stochastic Optimization & Decision-Making
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table

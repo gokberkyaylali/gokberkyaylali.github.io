@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-resume",
           title: "resume",
-          description: "You may also refer to the pdf version here",
+          description: "Biography &amp; Resume",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/assets/pdf/Academic_Genealogy.pdf";
+          },
+        },{id: "nav-contact",
+          title: "contact",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/contact/";
           },
         },{id: "news-graduated-from-bogazici-university-electrical-electronics-engineering-ms-program",
           title: 'Graduated from Bogazici University Electrical Electronics Engineering MS program',

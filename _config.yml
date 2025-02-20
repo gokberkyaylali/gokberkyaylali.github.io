@@ -256,7 +256,7 @@ scholar:
   last_name: [Yaylali]
   first_name: [Gokberk]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/

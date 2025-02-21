@@ -26,8 +26,7 @@
       "url": "https://www.yale.edu/",
       "area": "Electrical and Computer Engineering",
       "studyType": "PhD",
-      "startDate": "2022-08-01",
-      "endDate": "Present"
+      "startDate": "2022-08-01"
     },
     {
       "institution": "Bogazici University, Istanbul, TR",
@@ -112,23 +111,23 @@
   "honors": [
     {
       "title": "PhD Fellowship",
-      "date": "2022",
+      "date": "2022-08-01",
       "awarder": "Yale University"
     },
     {
       "title": "Special Achievement Award for Master's Thesis",
-      "date": "2022-08",
+      "date": "2022-08-01",
       "awarder": "IEEE Communications Society Turkey",
       "url": "https://www.ieee.org.tr/comsoc/2022/09/20/ieee-turkiye-comsoc-yuksek-lisans-tez-yarismasi-sonuclari-aciklandi/"
     },
     {
       "title": "Honor",
-      "date": "2022-06",
+      "date": "2022-06-01",
       "awarder": "Bogazici University Faculty of Engineering"
     },
     {
       "title": "Honor",
-      "date": "2022-06",
+      "date": "2022-06-01",
       "awarder": "Bogazici University Faculty of Arts and Sciences"
     }
   ],
@@ -160,12 +159,12 @@
   "languages": [
     {
       "language": "Turkish",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Full Professional Proficiency",
       "icon": ""
     }
   ],

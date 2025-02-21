@@ -15,16 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-<h1>Preprints</h1>
-
-{% bibliography --group_by none --query @*[type=preprint]* %}
-
-<h1>Conferences</h1>
-
-{% bibliography --group_by none --query @*[type=conference]* %}
-
-<h1>Journals</h1>
-
-{% bibliography --group_by none --query @*[type=journal]* %}
+{% bibliography %}
 
 </div>

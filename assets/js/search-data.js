@@ -32,10 +32,10 @@ ninja.data = [{
           },
         },{id: "nav-genealogy",
           title: "genealogy",
-          description: "",
+          description: "Academic genealogy",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Academic_Genealogy.pdf";
+            window.location.href = "/genealogy/";
           },
         },{id: "nav-contact",
           title: "contact",
@@ -43,13 +43,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
-          },
-        },{id: "nav-genealogy2",
-          title: "genealogy2",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/genealogy/";
           },
         },{id: "news-graduated-from-bogazici-university-electrical-electronics-engineering-ms-program",
           title: 'Graduated from Bogazici University Electrical Electronics Engineering MS program',

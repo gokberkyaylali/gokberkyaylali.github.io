@@ -14,7 +14,7 @@ ninja.data = [{
           description: "Biography &amp; Resume",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/resume/";
           },
         },{id: "nav-publications",
           title: "publications",

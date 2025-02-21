@@ -39,7 +39,7 @@ Prior to Yale, I received my MS degree from <a href="https://ee.bogazici.edu.tr/
 Besides my academic endeavors, I am a hardcore <a href="https://www.fenerbahce.org/">Fenerbahçe</a> fan, and rarely miss a game. I closely follow Formula 1 and several other motorsports, also I am a Rubik's cube enthusiast with a sub-30 personal record on 3x3. Recently, I've been interested in the hobby of horology, and trying to learn the niche craftsmanship of watchmaking.
 </p>
 
-You may find my academic genealogy [here](/assets/pdf/Academic_Genealogy.pdf).
+You may find my academic genealogy [here](/genealogy/).
 
 <!-- <figure style="float: left; margin-right: 15px; max-width: 150px;">
   <a href="assets/pdf/Academic_Genealogy.pdf" target="_blank">

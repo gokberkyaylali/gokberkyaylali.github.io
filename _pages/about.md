@@ -28,7 +28,7 @@ latest_posts:
 <!-- <a href=" "> </a> -->
 
 <p style="text-align: justify;">
-I am a PhD student in the <a href="https://seas.yale.edu/departments/electrical-engineering">Department of Electrical and Computer Engineering</a> at <a href="https://www.yale.edu/">Yale University</a>, where I am fortunate to be supervised by <a href="https://www.dkalogerias.org/">Prof. Dionysis Kalogerias</a>. My main research interests include but not limited to mathematical optimization, risk-aware decision-making & stochastic resouce allocation in wireless networks, distributionally robust optimization, and quantitative analysis.
+I am a PhD candidate in the <a href="https://seas.yale.edu/departments/electrical-engineering">Department of Electrical and Computer Engineering</a> at <a href="https://www.yale.edu/">Yale University</a>, where I am fortunate to be supervised by <a href="https://www.dkalogerias.org/">Prof. Dionysis Kalogerias</a>. My main research interests include but not limited to mathematical optimization, risk-aware decision-making & stochastic resouce allocation in wireless networks, distributionally robust optimization, and quantitative analysis.
 </p>
 
 <p style="text-align: justify;">

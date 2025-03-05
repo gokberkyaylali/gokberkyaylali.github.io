@@ -77,6 +77,9 @@ ninja.data = [{
           section: "News",},{id: "news-distributionally-robust-power-policies-for-wireless-systems-under-power-fluctuation-risk-accepted-to-asilomar-2024",
           title: '“Distributionally Robust Power Policies for Wireless Systems under Power Fluctuation Risk” accepted to...',
           description: "",
+          section: "News",},{id: "news-i-have-successfully-presented-my-thesis-prospectus-and-passed-my-doctoral-area-examination",
+          title: 'I have successfully presented my thesis prospectus and passed my doctoral area examination!...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',

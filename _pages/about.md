@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Yale University
+subtitle: PhD Candidate, Yale University
 
 profile:
   align: left

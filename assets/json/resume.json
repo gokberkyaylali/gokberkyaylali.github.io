@@ -3,7 +3,7 @@
     "name": "Gokberk Yaylali",
     "label": "PhD Candidate",
     "image": "",
-    "email": "gokberk [dot] yaylali [at] yale.edu",
+    "email": "gokberk [dot] yaylali [at] yale [dot] edu",
     "location": {
       "address": "17 Hillhouse Ave.",
       "postalCode": "CT 06520",
@@ -63,7 +63,7 @@
       "url": "https://www.dkalogerias.org/research-group/",
       "startDate": "2022-08-01",
       "endDate": "Present",
-      "highlights": ["Risk-aware stochastic optimization for resource allocation in wireless networks", "Distributionally robust optimization via coherent risk measures"]
+      "highlights": ["Distributionally robust stochastic optimization for resource allocation in wireless networks", "Risk-averse optimization via dual representation of coherent risk measures"]
     },
     {
       "name": "Nanonetworking Research Group, Bogazici University",
@@ -77,14 +77,14 @@
   "projects": [
     {
       "name": "Risk-Aware Resource Allocation for Robust Wireless Autonomy",
-      "summary": "Risk-Aware stochastic optimization for resource allocation in power-constrained multi-terminal point-to-point communication networks with fading. The generalizing solution extends the classical waterfilling algorithm. Convergence analysis of the problem for nonconvex channel rate functions is included.",
+      "summary": "Distributionally robust optimization for resource allocation in wireless autonomy. The duality with coherent risk measures emphasizes risk-averse stochastic programming, yielding ultra-reliable and efficient policies. A unified theory of distributionally robust optimization framework is developed, including comprehensive analysis.",
       "highlights": ["Distributionally Robust Optimization", "Risk-Averse Decision-Making"],
       "startDate": "2023-08-01",
       "endDate": "Present"
     },
     {
       "name": "Design of Index Modulation-Based Molecular Communication Systems",
-      "summary": "Comprehensive analysis on molecular multiple-receiver systems, with respect to communication performance and channel characteristics. Additionally, an elaborate channel modeling is provided for molecular multiple-receiver systems with fully-absorbing spherical receivers.",
+      "summary": "Comprehensive analysis on molecular multiple-receiver systems, in terms of communication performance and channel characteristics. Additionally, an elaborate channel modeling is developed for molecular multiple-receiver systems with fully-absorbing spherical receivers.",
       "highlights": ["Molecular Communication", "Index Modulation"],
       "startDate": "2020-01-01",
       "endDate": "2022-06-01"

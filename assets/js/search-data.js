@@ -80,6 +80,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-have-successfully-presented-my-thesis-prospectus-and-passed-my-doctoral-area-examination",
           title: 'I have successfully presented my thesis prospectus and passed my doctoral area examination!...',
           description: "",
+          section: "News",},{id: "news-distributionally-robust-power-policies-for-wireless-systems-under-power-fluctuation-risk-published-in-asilomar-2024",
+          title: '“Distributionally Robust Power Policies for Wireless Systems under Power Fluctuation Risk” published in...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
